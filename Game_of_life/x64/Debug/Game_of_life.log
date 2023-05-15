@@ -1,0 +1,31 @@
+﻿  Source.cpp
+C:\Users\Lenovo Legion 5\OneDrive\Desktop\Algebra\Semester_2\Prog2\DZ_02\DZ_SPA_02\Game_of_life\Source.cpp(113,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Lenovo Legion 5\OneDrive\Desktop\Algebra\Semester_2\Prog2\DZ_02\DZ_SPA_02\Game_of_life\Source.cpp(132,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo Legion 5\OneDrive\Desktop\Algebra\Semester_2\Prog2\DZ_02\DZ_SPA_02\Game_of_life\Source.cpp(205,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo Legion 5\OneDrive\Desktop\Algebra\Semester_2\Prog2\DZ_02\DZ_SPA_02\Game_of_life\Source.cpp(205,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo Legion 5\OneDrive\Desktop\Algebra\Semester_2\Prog2\DZ_02\DZ_SPA_02\Game_of_life\Source.cpp(272,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lenovo Legion 5\OneDrive\Desktop\Algebra\Semester_2\Prog2\DZ_02\DZ_SPA_02\Game_of_life\Source.cpp(329,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo Legion 5\OneDrive\Desktop\Algebra\Semester_2\Prog2\DZ_02\DZ_SPA_02\Game_of_life\Source.cpp(330,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo Legion 5\OneDrive\Desktop\Algebra\Semester_2\Prog2\DZ_02\DZ_SPA_02\Game_of_life\Source.cpp(393,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo Legion 5\OneDrive\Desktop\Algebra\Semester_2\Prog2\DZ_02\DZ_SPA_02\Game_of_life\Source.cpp(393,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game_of_life.vcxproj -> C:\Users\Lenovo Legion 5\OneDrive\Desktop\Algebra\Semester_2\Prog2\DZ_02\DZ_SPA_02\x64\Debug\Game_of_life.exe
