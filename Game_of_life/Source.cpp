@@ -262,7 +262,7 @@ int main() {
 	bool playing = false;
 
 	// enable/disable boot intro - change intro value
-	bool intro = false;
+	bool intro = true;
 
 	sf::ContextSettings settings;
 	settings.antialiasingLevel = 0;
